@@ -1,1 +1,6 @@
 /* Css style */
+
+/* Root style */
+* {
+  box-sizing: border-box;
+}
